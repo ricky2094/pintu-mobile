@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ensure user cant continue register using same email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f2fa2e40-734d-4b87-af3c-2edfc6b14239</testCaseGuid>
+</TestCaseEntity>

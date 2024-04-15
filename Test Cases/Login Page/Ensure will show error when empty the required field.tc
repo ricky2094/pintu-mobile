@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ensure will show error when empty the required field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ec58937b-e8b1-41be-9d92-b866e419b88d</testCaseGuid>
+</TestCaseEntity>

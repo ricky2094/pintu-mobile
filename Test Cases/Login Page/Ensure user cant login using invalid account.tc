@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ensure user cant login using invalid account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a4c47680-ef9a-40a6-bf15-7efe61099ec7</testCaseGuid>
+</TestCaseEntity>
